@@ -1,8 +1,11 @@
 {
 	"color_scheme": "Packages/User/3024 Night (SL).tmTheme",
+	"font_face": "Source Code Pro",
+	"font_size": 11,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"indent_to_bracket": true,
 	"translate_tabs_to_spaces": true
 }
