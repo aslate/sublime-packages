@@ -1,0 +1,17 @@
+{
+	"installed_packages":
+	[
+		"3024 Color Scheme",
+		"Better CoffeeScript",
+		"Cucumber",
+		"Cucumber Completion",
+		"GitGutter",
+		"npm",
+		"Preference Helper",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-coffeelint",
+		"SublimeLinter-jshint"
+	]
+}
